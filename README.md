@@ -6,7 +6,7 @@ Die Inhalte entstehen während meiner Umschulung zum Fachinformatiker für Anwen
 
 ## 📚 Themen
 
-* Variablen und Datentypen
+* [Variablen und Datentypen](basics/variables-and-data-types.md)
 * Konsolenausgaben
 * Bedingungen mit `if` und `else`
 * Schleifen
