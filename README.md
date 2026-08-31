@@ -8,7 +8,7 @@ Die Inhalte entstehen während meiner Umschulung zum Fachinformatiker für Anwen
 
 * [Variablen und Datentypen](basics/variables-and-data-types.md)
 * Konsolenausgaben
-* Bedingungen mit `if` und `else`
+* [Bedingungen mit if und else](conditions/if-else.md)
 * Schleifen
 * Methoden
 * Klassen und Objekte
