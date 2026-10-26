@@ -10,7 +10,7 @@ Die Inhalte entstehen während meiner Umschulung zum Fachinformatiker für Anwen
 * Konsolenausgaben
 * [Bedingungen mit if und else](conditions/if-else.md)
 * [Schleifen mit for und while](loops/for-and-while.md)
-* Methoden
+* [Methoden](methods/methods.md)
 * Klassen und Objekte
 * Konstruktoren
 * Vererbung und Interfaces
