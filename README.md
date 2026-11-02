@@ -11,7 +11,7 @@ Die Inhalte entstehen während meiner Umschulung zum Fachinformatiker für Anwen
 * [Bedingungen mit if und else](conditions/if-else.md)
 * [Schleifen mit for und while](loops/for-and-while.md)
 * [Methoden](methods/methods.md)
-* Klassen und Objekte
+* [Klassen und Objekte](object-oriented-programming/classes-and-objects.md)
 * Konstruktoren
 * Vererbung und Interfaces
 * Collections
